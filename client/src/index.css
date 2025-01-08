@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+body {
+    font-family: "Nunito", sans-serif;
+    color: white;
+    background: white;
+}
+.login-form{
+    color: black;
+}
+.ULogin-page{
+    background: aqua;
+}
+.navtrai{
+    position: relative;
+    bottom: 12px;
+}
