@@ -12,7 +12,7 @@ const NavBar = () => {
                      </Link>
                 <img className="bg-img" src={logonav1}  style={{}}/>
                 </Link>
-                <form className="d-flex" style={{ flex: 1, justifyContent: "center" ,top:"12px",position:"relative",left:"22px"}} >
+                <form className="d-flex" style={{ flex: 1, justifyContent: "center" ,top:"12px",position:"relative",left:"22px",}} >
                     <input 
                         type="search" 
                         placeholder="Tìm kiếm sản phẩm" 
@@ -20,7 +20,7 @@ const NavBar = () => {
                         aria-label="Search" 
                         style={{ width: "100%" }}
                     />
-                <button className="btn btn-outline-light" type="submit" style={{backgroundColor:"#ee4d2d",position:"relative",right:"40px"}}>
+                <button className="btn btn-outline-light" type="submit" style={{backgroundColor:"#ee4d2d",position:"relative",right:"40px",minWidth:"70px",borderRadius:"5px"}}>
                 <svg xmlns="http://www.w3.org/2000/svg"
                         width="18" 
                         height="18" 

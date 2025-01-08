@@ -3,8 +3,7 @@
 body {
     font-family: "Nunito", sans-serif;
     color: white;
-    background: white;
-
+    background-image: url('../src/assets/bglogin.jpg');
 }
 .login-form{
     color: black;
@@ -15,7 +14,9 @@ body {
     background-position: center;
 
 }
-
+.ULogin-page{
+    background: aqua;
+}
 .navtrai{
     position: relative;
     bottom: 12px;

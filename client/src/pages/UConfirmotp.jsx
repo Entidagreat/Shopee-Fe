@@ -1,7 +1,7 @@
 import { Alert , Button , Form , Row, Col, Stack } from "react-bootstrap";
 
 const UConfirmotp = () => {
-return ( <>
+return ( <div main className="login-form">
         <Form className="login-form">
             <Row style={{
                 justifyContent :"center",
@@ -28,7 +28,7 @@ return ( <>
             </Col>
             </Row>
         </Form>
-        </> );
+        </div> );
     };
  
 export default UConfirmotp;
