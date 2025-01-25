@@ -16,8 +16,11 @@
 }
 .servicefooter{
     background-color: #FBFBFB;
-    margin: 0;
+    margin: 10vh 0 0 0;
     max-width: 100%;
+}
+.servicefooter .link-styles:hover{
+    color:#F1512E;
 }
 .headfooter{
     color: #727A89;

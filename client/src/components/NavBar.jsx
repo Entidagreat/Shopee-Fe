@@ -4,7 +4,7 @@ import logonav1 from "../assets/logonav1.png";
 
 const NavBar = () => {
     return  (
-    <Navbar  className="navbar" style={{ height:"120px" , backgroundColor: "#ee4d2d"}}>
+    <Navbar  className="navbar" style={{ height:"120px" , background: "linear-gradient(#ee4d2d,#FD5F32"}}>
         <Container >
                 <Link to ="/" className="link-light text-decoration-none">
                     <Link to ="/Sellerpage" className="link-light text-decoration-none">
