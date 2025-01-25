@@ -9,7 +9,9 @@ const ULogin = () => {
                 backgroundRepeat: "no-repeat",
                 height: "100vh",
                 backgroundSize: "100%",
-    }}>
+                marginTop: "-60px",
+    }}
+    >
     <Form className="login-form">
         <Row style={{
             justifyContent :"right",

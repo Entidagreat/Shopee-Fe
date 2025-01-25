@@ -6,6 +6,7 @@ import Sellerpage from './pages/Sellerpage';
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Container } from 'react-bootstrap';
 import NavBar from './components/NavBar';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
     <Route path="*"element={<Navigate to="/" />} />
   </Routes>
    </Container>
+   <Footer/>
     </>
    );
   

@@ -2,9 +2,8 @@
 
 body {
     font-family: "Nunito", sans-serif;
-    color: white;
+    /* color: white; */
     background: white;
-
 }
 .login-form{
     color: black;

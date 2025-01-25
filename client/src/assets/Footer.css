@@ -1,0 +1,76 @@
+.titlefooter{
+    color: #272727;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+.titledescription{
+    color: #272727;
+    font-size: 14px;
+    margin: 10px 0;
+    padding: 2px 0;
+    font-weight: 700;
+}
+.followfooter div{
+    margin: 5px 0;
+}
+.servicefooter{
+    background-color: #FBFBFB;
+    margin: 0;
+    max-width: 100%;
+}
+.headfooter{
+    color: #727A89;
+    text-decoration: none;
+    font-size: 12px;
+}
+.text-center{
+    padding: 0;
+}
+
+.endfooter{
+    padding: 30px;
+    text-align: center;
+    color: #725B72;
+    font-size: 13px;
+}
+.infofooter{
+    background-color: #F5F5F5;
+    max-width: 100%;
+    margin: 0;
+    padding-top: 1vh;
+}
+
+h6{
+    color: #272727;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+p{
+    color: #727A89;
+    font-size: 13px;
+    margin: 0;
+    padding: 2px 0;
+}
+.link-styles{
+    color: #727A89;
+    text-decoration: none;
+}
+
+.thanhtoan .text-center{
+    box-shadow:0 1px 1px gray;
+    padding: 4px 0;
+    max-width:4vw;
+    border-radius:3px;
+}
+
+.thanhtoan .thanhtoanrow{
+    justify-content: space-between;
+    margin-left:1vw;
+    margin-top: 1.5vh;
+}
+.thanhtoan{
+    margin-bottom: 3vh;
+    margin-right: 10vh;
+}
